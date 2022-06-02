@@ -1,3 +1,5 @@
-module github.com/YOUR-USER-OR-ORG-NAME/YOUR-REPO-NAME
+module github.com/globalskye/RestAPI-app.git
 
-go 1.14
+go 1.18
+
+require github.com/julienschmidt/httprouter v1.3.0
